@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SahithiSiripuram/shakespearetranslate.git"
+    "url": "https://github.com/nikithsaigudimalla/shakespeare-translator.git"
   },
   "author": "Sahithi Siripuram",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SahithiSiripuram/shakespearetranslate/issues"
+    "url": "https://github.com/nikithsaigudimalla/shakespeare-translator/issues"
   },
-  "homepage": "https://github.com/SahithiSiripuram/shakespearetranslate#readme",
+  "homepage": "https://github.com/nikithsaigudimalla/shakespeare-translator#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
